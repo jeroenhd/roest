@@ -4,7 +4,7 @@
 
 Aren't you _het spuugzat_ from writing Rust programs in English? Do you like saying
 "kut" a lot? Would you like to try something different, in an exotic and
-funny-sounding language? Would you want to bring some French touch to your
+funny-sounding language? Would you want to bring some Dutch touch to your
 programs?
 
 **roest** (Dutch for _Rust_) is here to save your day, as it allows you to
@@ -15,7 +15,7 @@ Any government officials wanting to use this language should donate to rouille
 using [liberapay](https://liberapay.com/bnjbvr/).
 
 You're from Flanders and don't feel at ease using only Dutch words? Don't worry!
-French Rust is fully compatible with English-Rust, so you can mix both at your
+Dutch Rust is fully compatible with English-Rust, so you can mix both at your
 convenience. Support for French Rust is not yet available.
 
 Here's an example of what can be achieved with Roest:
