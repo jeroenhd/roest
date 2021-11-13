@@ -54,7 +54,7 @@ syntax. Ziezo, that's it.
 ## contributies
 
 First of all, _dankjewel_ for considering participating to this joke, the
-French government will thank you later! Feel free to throw in a few identifiers
+Dutch government will thank you later! Feel free to throw in a few identifiers
 here and there, and open a pull-request against the `hoofd` (Dutch for
 `main`) branch.
 
